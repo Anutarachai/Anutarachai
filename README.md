@@ -1,10 +1,7 @@
 # Hello World, I'm Anutarachai, be very welcome 👋
 
-## LeehXD's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Anutaracahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ## 🛠️ Technologies & Tools
 <p align="center">
