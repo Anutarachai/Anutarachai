@@ -1,8 +1,6 @@
 # Hello World, I'm Anutarachai, be very welcome 👋
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anutaracahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anutarachai&show_icons=true&theme=radical)
 ## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
