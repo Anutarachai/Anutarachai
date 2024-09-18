@@ -1,6 +1,6 @@
 # Hello World, I'm Anutarachai, be very welcome 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Anutaracahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## My stat
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anutaracahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🛠️ Technologies & Tools
